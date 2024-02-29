@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = org.farka.\
+    taskmanager.config.SqlTestContainersSpringContextCustomizerFactory,org.\
+    farka.taskmanager.config.KafkaTestContainersSpringContextCustomizerFactory
